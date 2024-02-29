@@ -1,3 +1,11 @@
+@media (max-width: 350px) {
+    h1 {
+        font-size: 48px; 
+        text-align: center;
+    }
+}
+
+
 :root {
     --primary-color: #6c63ff;
     --secondary-color: #f5f2fe;
